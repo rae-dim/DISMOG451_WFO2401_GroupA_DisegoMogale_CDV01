@@ -1,10 +1,11 @@
 
 ### Personal Information
 
-- **Name: Disego Mogale**
-- **Date: 04/03/2024**
-- **Current Role/Position: Student**
-- **Field of Interest: Software Development**
+- **Name**: Disego Mogale
+- **Date**: 04/03/2024
+- **Current Role/Position**: Student
+- **Field of Interest**: Software Development
+- **Personality Type**: INFP
 
 ## Part 1: Self-Assessment Reflection
 
@@ -51,6 +52,7 @@
         - Board games (teamwork and communication)
         - Crochet (attention to detail)
         - Music
+        - Machine learning
           
           
     - #### Values that are important to me in a work environment:
@@ -65,17 +67,34 @@
 ## Part 2: Career Exploration Insights
 
 1. ### Industries and Roles Explored:
+    (Those that i find interesting have been marked with :o)
     
-    - **List of researched industries or roles**
-        - jhvuy
-        - jhbuy
-          
-    - Note any particular areas that piqued your interest.
+    - **List of researched roles**
+      - Full Stack Developer :o
+      - Frontend Developer :o
+      - User Interface Designer :o
+      - Data Engineer
+      - Business analyst :o
+      - Testers
+        
+    - **List of researched Industries**
+      - Data and Analytics
+      - Web Development
+      - eCommerce :o
+      - Health Tech :o
+      - Artificial intelligence :o
+       
       
 2. ### Alignment with Personal Profile:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - **Alignment with personal profile**
+        - The roles and industries that have been marked as interesting align quite weell with some of my interests, present skills and the skills i aspire to acquire. I am still undecided about whether I want to pursue frontend solely, or use some of what I have already learnt and go the full stack route.
+        - Im especially interested in the Health tech and artificial intelligence industries. I have an altruistic spirit, therefore I have a vested interest in projects that aim to help people, improve their lives and make life that much easier.  
+
+    - **Gaps/areas for futher exploration**
+        - I need to do more research on the different industries that developers can go into, I had a very fixed idea at first.
+        - I should look more into mobile developers.
+         
 
 ## Part 3: SMART Career Goals
 
