@@ -170,9 +170,11 @@
 1. ### Anticipated Challenges:
     
     - **Rejection** from applications (either volunteering, job or university applications)
+
       *Strategy*: By being relentless and never giving up, rejection can only be a temporary situation.
     - **Failure** to stick to habits and schedule (for time management)
-      *Strategy*: Be kind with myself and not be overly critical. Take things one day at a time and keep focus on the ultimate goal. The aim isnt to be perfect but rather to create healthy and sustainable habits.
+
+       *Strategy*: Be kind with myself and not be overly critical. Take things one day at a time and keep focus on the ultimate goal. The aim isnt to be perfect but rather to create healthy and sustainable habits.
 
     
       
